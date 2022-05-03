@@ -1,3 +1,3 @@
 # Demo
 
-Demo setup for testing
+Demo setup for testing.
